@@ -23,7 +23,7 @@
 }
 
 .search-bar{
-	padding-top: 38px;
+	padding-top: 35px;
 	float: right;
 	padding-right: 50px;
 }
@@ -133,6 +133,8 @@ input{
 .profile{
 	padding-left: 50PX;
 	padding-top: 15px;
+	padding-bottom: 15px;
+
 }
 
 .footer{
