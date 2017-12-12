@@ -96,7 +96,7 @@ input{
 
 .info h1{
 	color:#cd0000;
-	font-size: 22px;
+	font-size: 25px;
 	font-family: 'Source Sans Pro', sans-serif;
 	padding-top: 35px;
 	padding-bottom: 5px;
@@ -129,6 +129,50 @@ input{
 	margin-left: 10px;
 	margin-bottom: 10px;
 }
+
+.profile{
+	padding-left: 50PX;
+	padding-top: 15px;
+}
+
+.footer{
+	background-color: #cd0000;
+	width: 1020px;
+	height: 50px;
+	margin:0 auto;
+}
+
+.site-map{
+	margin-left: 50px;
+	padding-top: 20px;
+	float: middle;
+}
+
+.site-map li{
+	color:#fff;
+	font-size: 13px;
+	display: inline-block;
+	font-family: 'Source Sans Pro', sans-serif;
+	letter-spacing: .5px;
+}
+
+.site-map .hom{
+	margin-left: 300px;
+}
+
+.site-map .com,
+.site-map .pro,
+.site-map .ser,
+.site-map .con{
+	margin-left:20px; 
+}
+
+
+
+
+
+
+
 
 
 
