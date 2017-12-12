@@ -83,7 +83,6 @@ input{
 }
 
 
-
 .banner,
 .info{
 	width: 1020px;
@@ -113,7 +112,23 @@ input{
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
-.widgets ul{
-	text-decoration-style: none;
-	display: inline-block;
+.widgets{
+	margin-top:10px; 
 }
+.widgett{
+	display: inline-block;
+	margin-left: 50px;
+	border-top: 3px solid #ffa500;
+	background-color:#ffa500;
+}
+
+.widgett h2{
+	font-size: 15px;
+	color: #fff;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+
+
