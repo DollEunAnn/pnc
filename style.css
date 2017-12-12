@@ -1,0 +1,93 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	background-color:grey;
+}
+
+.content-head{
+	/*width: 1525px; */
+	width: 1020px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.header{
+	background-image: url(logo.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 148px;
+}
+
+.search-bar{
+	padding-top: 38px;
+	float: right;
+	padding-right: 50px;
+}
+
+input{
+	width: 150px;
+	height: 25px;
+	border-radius: 5px;
+}
+
+.search-bar button{
+	background-color: orange;
+	border-radius: 5px;
+	height: 30px;
+	width: 65px;
+	font-size: 13px;
+	color: #fff;
+
+}
+
+.menu ul{
+	padding-top: 119px;
+	padding-left: 350px;
+}
+
+.menu li{
+	display: inline-block;
+	float: left;
+	padding-right:50px;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #fff;
+	font-size: 13px;
+}
+
+.banner,
+.info{
+	width: 1020px;
+	margin:0 auto;
+}
+
+
+.info{
+	background-color: #fff; 
+}
+
+.info h1{
+	color:#cd0000;
+	font-size: 22px;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding-top: 35px;
+	padding-bottom: 5px;
+	margin-left:50px;
+	margin-right: 50px;
+	border-bottom:1px dotted #000;
+}
+
+.paragraph{
+	padding-top: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.widgets ul{
+	text-decoration-style: none;
+	display: inline-block;
+}
