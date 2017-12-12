@@ -52,11 +52,37 @@ input{
 .menu li{
 	display: inline-block;
 	float: left;
-	padding-right:50px;
+/*	padding-right:50px;*/
 	font-family: 'Source Sans Pro', sans-serif;
 	color: #fff;
 	font-size: 13px;
 }
+
+.home{
+	padding-left: 1px;
+}
+
+.company{
+	margin-left: 40px;
+}
+
+.products{
+	margin-left: 50px;
+}
+
+.service{
+	margin-left: 60px;
+}
+
+.contact{
+	margin-left: 70px;
+}
+
+.client{
+	margin-left: 60px;
+}
+
+
 
 .banner,
 .info{
