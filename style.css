@@ -48,13 +48,12 @@ input{
 
 .menu ul{
 	padding-top: 110px;
-	padding-left: 335px;
+	padding-left: 330px;
 }
 
 .menu li{
 	display: inline-block;
 	float: left;
-/*	padding-right:50px;*/
 	font-family: 'Source Sans Pro', sans-serif;
 	color: #fff;
 	font-size: 15px;
